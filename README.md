@@ -1,1 +1,2 @@
-Developed UberEats Alternate listing page UI that uses HTML, CSS, and working on applying Javascript 
+### Developed Alternate UberEats Website UI using HTML and CSS
+### Sample Website Image in homepage.jpg file above 
